@@ -1,3 +1,4 @@
 # bk-simulasipembentukkue
-Simulasi Mesin Pengubah Bentuk - Berfikir Komputasional [BK]
-<br>Buku Paket Informatika untuk SMP Kelas VIII 2021<br/>
+Berfikir Komputasional [BK] - Simulasi Mesin Pengubah Bentuk
+<br>Aktivitas BK-K8-01-U: Mesin Pembentuk Kue<br/>
+<br>Buku Paket Informatika untuk SMP Kelas VIII 2021 Hal. 26~27<br/>
