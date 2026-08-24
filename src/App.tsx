@@ -301,7 +301,7 @@ function Footer() {
   return (
     <footer className="border-t border-[var(--line)] bg-[var(--top)] px-5 py-4 text-center sm:px-8">
       <p className="text-xs font-semibold text-[var(--faint)]">
-        PPL PP UM - Informatika - SMPN 25 Malang @2026
+        PPL PPG Informatika Universitas Negeri Malang - SMP Negeri 25 Malang - 2026
       </p>
     </footer>
   );
